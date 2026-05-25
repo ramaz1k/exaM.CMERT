@@ -973,6 +973,9 @@
   .text-\[\#E6E6E6\] {
     color: #E6E6E6;
   }
+  .text-\[white\] {
+    color: white;
+  }
   .text-blue-500 {
     color: var(--color-blue-500);
   }
